@@ -1,0 +1,5 @@
+{
+  "*.js": "eslint",
+  "*.css": "stylelint",
+  "*.json": "prettier --write"
+}
